@@ -29,3 +29,4 @@ require("config.options") -- opciones básicas
 require("config.keymaps") -- atajos de teclado
 require("config.plugins") -- plugins
 
+require("config.java") -- plugins

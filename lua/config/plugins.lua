@@ -25,7 +25,7 @@ require("lazy").setup({
       vim.cmd.colorscheme("catppuccin-mocha")
     end,
   },
-
+{'nvim-java/nvim-java'},
   -- 📌 Iconos
   { "nvim-tree/nvim-web-devicons", lazy = true },
 
